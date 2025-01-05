@@ -1,7 +1,7 @@
 # Kend 的个人简介🚀🚀🚀
 
 <p align="center">
-  <img src="https://github.com/kend0722/kend0722/blob/kend0722-image-1/002715AqwSI.jpg" alt="Kend's Photo" width="200"/>
+  <img src="https://github.com/kend0722/kend0722/blob/master/kend.jpg" alt="Kend's Photo" width="200"/>
 </p>
 
 您好！欢迎来到我的主页。我是 **Kend**，一名热衷于计算机视觉与卷积神经网络（CNN）的研究者和实践者。我来自中国湖南省宁远县，一个充满历史文化和自然美景的地方。
