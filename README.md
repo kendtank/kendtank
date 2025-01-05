@@ -54,7 +54,7 @@ Apart from work, I am a passionate basketball player. Whether participating in i
 
 如果你对计算机视觉或CNN有任何兴趣，或者只是想聊一聊篮球，都非常欢迎你通过以下方式联系我：
 
-- 邮箱: li_kend0722@163.com
+- 邮箱: li_kend0722@163.com  tankang0722@gmail.com
 - GitHub: https://github.com/kend0722
 
 希望我们能够相互交流，共同进步！
