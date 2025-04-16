@@ -1,5 +1,8 @@
 # Kend 的个人简介🚀🚀🚀
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kend722)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="left">
   <img src="https://github.com/kend0722/kend0722/blob/master/kend.jpg" alt="Kend's Photo" width="150"/>
 </p>
