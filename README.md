@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kend0722&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kend0722&show_icons=true&theme=tokyonight/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kend0722&show_icons=true&theme=tokyonight> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kend0722" /> </div>
 
