@@ -1,6 +1,6 @@
 # Kend 的个人简介🚀🚀🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kend0722&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kend0722&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left">
