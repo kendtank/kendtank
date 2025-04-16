@@ -1,11 +1,12 @@
-# Kend 的个人简介🚀🚀🚀
-
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Kend 的个人简介🚀🚀🚀&center=true&size=27"> </a> </h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kend0722&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kend0722&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kend0722" /> </div>
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=kend0722" /> </div>
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kend0722&theme=xcode" /> </div>
 您好！欢迎来到我的主页。我是 **Kend**，一名热衷于计算机视觉与卷积神经网络（CNN）的研究者和实践者。我来自中国湖南省宁远县，一个充满历史文化和自然美景的地方。
 
 ---
