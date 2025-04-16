@@ -1,5 +1,3 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Kend 的个人简介🚀🚀🚀&center=true&size=27"> </a> </h1>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kend0722&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kend0722&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
