@@ -2,9 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kend0722&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kend0722&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-<p align="left">
-  <img src="https://github.com/kend0722/kend0722/blob/master/kend.jpg" alt="Kend's Photo" width="150"/>
-</p>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kend0722" /> </div>
 
 您好！欢迎来到我的主页。我是 **Kend**，一名热衷于计算机视觉与卷积神经网络（CNN）的研究者和实践者。我来自中国湖南省宁远县，一个充满历史文化和自然美景的地方。
 
