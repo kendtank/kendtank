@@ -59,8 +59,8 @@ Apart from work, I am a passionate basketball player. Whether participating in i
 
 如果你对计算机视觉或CNN有任何兴趣，或者只是想聊一聊篮球，都非常欢迎你通过以下方式联系我：
 
-- 邮箱: li_kend0722@163.com  | tankang0722@gmail.com
-- GitHub: https://github.com/kend0722
+- 邮箱: kendtank@163.com  | tankang0722@gmail.com
+- GitHub: https://github.com/kendtank
 
 希望我们能够相互交流，共同进步！
 
@@ -70,8 +70,8 @@ Apart from work, I am a passionate basketball player. Whether participating in i
 
 If you have any interest in computer vision or CNN, or just want to chat about basketball, feel free to contact me through the following methods:
 
-- Email: li_kend0722@163.com
-- GitHub: https://github.com/kend0722
+- Email: kendtank@163.com
+- GitHub: https://github.com/kendtank
 
 I hope we can communicate and grow together!
 
